@@ -1,0 +1,16 @@
+[project]
+name = "bpp-dataset-scripts"
+version = "0.1.0"
+description = "Scripts for the 1D bin packing datasets: feature/annotation extraction and constructive heuristics."
+readme = "README.md"
+requires-python = ">=3.10"
+# The dataset scripts, utils/ and the heuristics themselves use only the
+# standard library; matplotlib is needed only by plot_heuristics.py.
+dependencies = [
+    "matplotlib>=3.10.9",
+]
+
+[tool.uv]
+# Scripts are run directly (not installed as a package); uv only manages the
+# interpreter and the virtual environment.
+package = false
