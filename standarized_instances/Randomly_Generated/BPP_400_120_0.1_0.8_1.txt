@@ -2,8 +2,8 @@
 400
 //Bin Capacity
 120
-//Known Best Solution
--1
+//Optimal Solution
+179
 //Weight of Item
 96
 96

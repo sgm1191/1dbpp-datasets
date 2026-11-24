@@ -1,9 +1,9 @@
 //Number of items
 801
 //Bin Capacity
-40000
-//Known Best Solution
--1
+39936
+//Optimal Solution
+266
 //Weight of Item
 35940
 35906

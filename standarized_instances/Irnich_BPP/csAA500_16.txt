@@ -2,8 +2,8 @@
 5318
 //Bin Capacity
 500000
-//Known Best Solution
--1
+//Optimal Solution
+2124
 //Weight of Item
 332237
 332237
